@@ -7,10 +7,10 @@ body{
   color: white;
   padding: 40px;
 }
-a{
+h2{
   text-decoration: none;
   color: gold;
 }
-a:hover{
+h2:hover{
   color: yellow;
 }
