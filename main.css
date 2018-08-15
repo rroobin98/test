@@ -14,3 +14,7 @@ h2{
 h2:hover{
   color: yellow;
 }
+form{
+  background-color: #222;
+  padding: 10px;
+}
